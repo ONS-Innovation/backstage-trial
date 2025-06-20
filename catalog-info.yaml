@@ -1,9 +1,9 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: Backstage_Trial
+  name: backstage-trial
   annotations:
-    github.com/project-slug: 'ONS-Innovation/Backstage_Trial'
+    github.com/project-slug: 'ONS-Innovation/backstage-trial'
 spec:
   type: service
   lifecycle: experimental
