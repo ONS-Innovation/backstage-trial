@@ -2,6 +2,9 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: backstage-trial
+  link:
+    url:  https://abc.com
+    title:  GitHub Codespace
   annotations:
     github.com/project-slug: 'ONS-Innovation/backstage-trial'
     backstage.io/techdocs-ref: value  
