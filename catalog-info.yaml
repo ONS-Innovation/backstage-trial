@@ -5,7 +5,7 @@ metadata:
   annotations:
     github.com/project-slug: 'ONS-Innovation/backstage-trial'
     backstage.io/techdocs-ref: value
-  links:
+  links:
     - url: https://codespaces.new/ONS-Innovation/backstage-trial
       title: GitHub Condspace 
       icon: dashboard
