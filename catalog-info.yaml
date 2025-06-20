@@ -4,6 +4,7 @@ metadata:
   name: backstage-trial
   annotations:
     github.com/project-slug: 'ONS-Innovation/backstage-trial'
+    backstage.io/techdocs-ref: value
 spec:
   type: service
   lifecycle: experimental
