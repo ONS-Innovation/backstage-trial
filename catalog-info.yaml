@@ -2,6 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: backstage-trial
+  description:  Repository created using python template repository
   link:
     url:  https://abc.com
     title:  GitHub Codespace
