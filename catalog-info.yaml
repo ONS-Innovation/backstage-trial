@@ -4,12 +4,7 @@ metadata:
   name: backstage-trial
   annotations:
     github.com/project-slug: 'ONS-Innovation/backstage-trial'
-    backstage.io/techdocs-ref: value
-  links:
-    - url: https://codespaces.new/ONS-Innovation/backstage-trial
-      title: GitHub Condspace 
-      icon: dashboard
-      type: admin-dashboard
+    backstage.io/techdocs-ref: value  
 spec:
   type: service
   lifecycle: experimental
