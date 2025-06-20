@@ -1,0 +1,14 @@
+# Changes here will be overwritten by Copier
+# Do not modify this file directly
+# To update the project using the original template, run make copier-update
+_src_path: /home/runner/work/backstage-trial/backstage-trial
+code_owners: '@ONSdigital'
+default_branch: main
+dependabot_open_pull_requests_limit: 10
+enable_dependabot_version_updates: true
+module_name: backstage_trial
+package_manager: poetry
+repository_description: First Repository to for the Backstage_Trial
+repository_name: backstage-trial
+repository_owner: ONS-Innovation
+repository_visibility: public
