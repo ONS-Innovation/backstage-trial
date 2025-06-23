@@ -3,9 +3,9 @@ kind: Component
 metadata:
   name: backstage-trial
   description:  Repository created using python template repository
-  link:
-    url:  https://abc.com
-    title:  GitHub Codespace
+  links:
+    - url:  https://abc.com
+      title:  GitHub Codespace
   annotations:
     github.com/project-slug: 'ONS-Innovation/backstage-trial'
     backstage.io/techdocs-ref: value  
