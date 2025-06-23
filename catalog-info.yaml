@@ -4,8 +4,9 @@ metadata:
   name: backstage-trial
   description:  Repository created using python template repository
   links:
-    - url:  https://abc.com
+    - url:  https://github.com/codespaces/improved-chainsaw-4p579w454g527vqr?editor=web
       title:  GitHub Codespace
+      icon:  start
   annotations:
     github.com/project-slug: 'ONS-Innovation/backstage-trial'
     backstage.io/techdocs-ref: dir:.
