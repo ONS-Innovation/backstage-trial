@@ -48,7 +48,7 @@ First Repository to for the Backstage_Trial
 
 Before you start developing, please ensure you've completed the following compliance requirements:
 
-- [ ] **CODEOWNERS**: Update `.github/CODEOWNERS` with the appropriate team/individuals responsible for this repository
+- [ ] **CODEOWNERS**: Update `.github/CODEOWNERS` with the appropriate team/individuals responsible for this repository.
 - [ ] **README**: Update this README with project-specific information (remove this notice when done)
 - [ ] **Repository Settings**: Ensure branch protection rules are enabled (should be automatic if using template setup)
 - [ ] **Security**: Review and configure security settings appropriate for your project
