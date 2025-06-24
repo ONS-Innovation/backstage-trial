@@ -74,3 +74,13 @@ class Calculator:
 
         self._cumulative_total /= divisor
         return self._cumulative_total
+
+if __name__ == "__main__":
+    from decimal import Decimal
+
+    calc = Calculator()
+    print("Initial total:", calc.cumulative_total)
+    print("Add 5:", calc.add(Decimal("5")))
+    print("Subtract 2:", calc.subtract(Decimal("2")))
+    print("Multiply by 3:", calc.multiply(Decimal("3")))
+    print("Divide by 2:", calc.divide(Decimal("2")))
