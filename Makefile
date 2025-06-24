@@ -48,3 +48,7 @@ megalint:  ## Run the mega-linter.
 		-v /var/run/docker.sock:/var/run/docker.sock:rw \
 		-v $(shell pwd):/tmp/lint:rw \
 		oxsecurity/megalinter:v7
+
+.PHONY: security
+security:  ## Run Bandit security checks.
+	poetry run bandit -r backstage_trial

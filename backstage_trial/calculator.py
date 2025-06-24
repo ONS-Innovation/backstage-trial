@@ -75,6 +75,7 @@ class Calculator:
         self._cumulative_total /= divisor
         return self._cumulative_total
 
+
 if __name__ == "__main__":
     from decimal import Decimal
 
